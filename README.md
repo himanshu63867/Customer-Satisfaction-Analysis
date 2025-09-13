@@ -1,5 +1,4 @@
 
-![Happy Passenger]https://github.com/himanshu63867/Customer-Satisfaction-Analysis/blob/main/Happy-passenger.jpg
 # Customer-Satisfaction-Analysis
 Machine Learning project focused on analyzing airline passenger satisfaction. Includes data preprocessing, exploratory data analysis (EDA), and predictive modeling to evaluate key factors affecting customer experience. The workflow includes:
 
